@@ -52,6 +52,8 @@ The application follows the **Model-View-Controller (MVC)** architecture:
 - **Service** – Contains the business logic
 - **Repository** – Communicates with the database using JPA
 
+---
+
 ### 📂 Project Structure
 
         spring-boot-rest-api/
