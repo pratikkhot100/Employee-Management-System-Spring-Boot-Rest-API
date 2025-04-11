@@ -8,9 +8,11 @@ A Spring Boot REST API is a web service built using Spring Boot, a Java-based fr
 This project demonstrates a complete **Spring Boot REST API** using:
 
 - **Spring MVC**
+- **Spring Boot 3**
 - **Spring Data JPA**
 - **Hibernate**
-- **MySQL**
+- **MySQL Database**
+- **Maven**
 - **Postman** for API testing
 - **MVC architecture**
 
