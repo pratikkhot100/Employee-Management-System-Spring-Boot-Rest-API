@@ -1,4 +1,5 @@
-# Spring Boot Rest-API
+# 🌐📡 Spring Boot Rest-API
+
 ## 🌱 What is Spring Boot REST API?
 A Spring Boot REST API is a web service built using Spring Boot, a Java-based framework that simplifies the development of stand-alone, production-grade Spring applications. REST (Representational State Transfer) is a popular architectural style for building web services that communicate over HTTP using standard methods like GET, POST, PUT, and DELETE.
 
