@@ -58,11 +58,11 @@ This project demonstrates a complete **Spring Boot REST API** using:
   
 ![Screenshot 2025-04-12 220548](https://github.com/user-attachments/assets/13a74e40-2736-4fe3-8986-0f488b65c681)
 
-- GET Employees Retrieve Employee Information Before Update
+- GET Employees Retrieve Employee Information After Update
 
 ![Screenshot 2025-04-13 000209](https://github.com/user-attachments/assets/12cd5073-0197-43d3-a7ed-207cbb47e276)
 
-- Retrieve Employees Data Before Update
+- Retrieve Employees Data After Update
   
 ![Screenshot 2025-04-12 220636](https://github.com/user-attachments/assets/45c26ba0-180f-4854-9fcc-1cb0933e3fed)
 
@@ -70,11 +70,11 @@ This project demonstrates a complete **Spring Boot REST API** using:
   
 ![Screenshot 2025-04-12 221712](https://github.com/user-attachments/assets/9a505a63-1e05-4167-ae9d-5c6c9878a241)
 
-- GET Employees Retrieve Employee Before Delete 
+- GET Employees Retrieve Employee After Delete 
   
 ![Screenshot 2025-04-12 225652](https://github.com/user-attachments/assets/f0534110-d33b-434a-89be-8dcc2756aef9)
 
-- Retrieve Employees Data Before Delete
+- Retrieve Employees Data After Delete
   
 ![Screenshot 2025-04-12 221733](https://github.com/user-attachments/assets/118930b3-199e-4672-b837-6dc9b0e5b7ee)
 
