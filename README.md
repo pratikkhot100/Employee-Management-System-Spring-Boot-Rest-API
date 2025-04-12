@@ -38,7 +38,7 @@ This project demonstrates a complete **Spring Boot REST API** using:
 
 ![Screenshot 2025-04-11 111403](https://github.com/user-attachments/assets/20109092-df84-46fd-a9fc-fdaf6a8c1581)
 
-- POST Employees Means Create new Employee
+- POST Employees Create new Employee
   
 ![Screenshot 2025-04-11 143041](https://github.com/user-attachments/assets/ef3b6684-a1d8-4e51-b5be-251c843a80f5)
 
@@ -54,23 +54,26 @@ This project demonstrates a complete **Spring Boot REST API** using:
   
 ![Screenshot 2025-04-12 214035](https://github.com/user-attachments/assets/0280d322-8131-4af1-a667-5ed1ac9cccda)
 
-- PUT Employees Means Update Employees details By employeeId
+- PUT Employees Update Employees details By employeeId
   
 ![Screenshot 2025-04-12 220548](https://github.com/user-attachments/assets/13a74e40-2736-4fe3-8986-0f488b65c681)
 
 - GET Employees Retrieve Employee Information Before Update
   
-![Screenshot 2025-04-12 220636](https://github.com/user-attachments/assets/45c26ba0-180f-4854-9fcc-1cb0933e3fed)
-
 - Retrieve Employees Data Before Update
   
-![Screenshot 2025-04-12 221712](https://github.com/user-attachments/assets/9a505a63-1e05-4167-ae9d-5c6c9878a241)
+![Screenshot 2025-04-12 220636](https://github.com/user-attachments/assets/45c26ba0-180f-4854-9fcc-1cb0933e3fed)
 
 - DELETE Epmloyee By employeeId
   
+![Screenshot 2025-04-12 221712](https://github.com/user-attachments/assets/9a505a63-1e05-4167-ae9d-5c6c9878a241)
+
+- Retrieve Employees Data Before Delete
+  
 ![Screenshot 2025-04-12 225652](https://github.com/user-attachments/assets/f0534110-d33b-434a-89be-8dcc2756aef9)
 
-- 
+- GET Employees Retrieve Employee Before Delete
+  
 ![Screenshot 2025-04-12 221733](https://github.com/user-attachments/assets/118930b3-199e-4672-b837-6dc9b0e5b7ee)
 
 ---
