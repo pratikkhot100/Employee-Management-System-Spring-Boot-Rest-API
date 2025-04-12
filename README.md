@@ -59,7 +59,9 @@ This project demonstrates a complete **Spring Boot REST API** using:
 ![Screenshot 2025-04-12 220548](https://github.com/user-attachments/assets/13a74e40-2736-4fe3-8986-0f488b65c681)
 
 - GET Employees Retrieve Employee Information Before Update
-  
+
+![Screenshot 2025-04-13 000209](https://github.com/user-attachments/assets/12cd5073-0197-43d3-a7ed-207cbb47e276)
+
 - Retrieve Employees Data Before Update
   
 ![Screenshot 2025-04-12 220636](https://github.com/user-attachments/assets/45c26ba0-180f-4854-9fcc-1cb0933e3fed)
