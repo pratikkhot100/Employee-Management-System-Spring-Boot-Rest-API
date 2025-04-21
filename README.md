@@ -186,3 +186,13 @@ Use **Postman** or **cURL** to interact with these endpoints after running the a
 - Add Swagger for API documentation
 - Integrate Spring Security for authentication
 - Dockerize the application
+
+---
+
+ ## 📞 Contact Information
+
+  🐙 GitHub: https://github.com/pratikkhot100
+
+  💼 LinkedIn: https://www.linkedin.com/in/pratikkhot01
+
+  📧 Email: pratikkhot1207@gmail.com
